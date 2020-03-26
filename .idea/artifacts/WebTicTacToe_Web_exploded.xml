@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="WebTicTacToe:Web exploded">
+    <output-path>$PROJECT_DIR$/war</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebTicTacToe/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="javaee-facet-classes" facet="WebTicTacToe/web/Web" />
+          <element id="module-output" name="WebTicTacToe" />
+        </element>
+      </element>
+      <element id="gwt-compiler-output" facet="WebTicTacToe/gwt/GWT" />
+    </root>
+  </artifact>
+</component>

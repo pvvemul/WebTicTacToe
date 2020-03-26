@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="WebTicTacToe:GWT">
+    <output-path>$PROJECT_DIR$/war</output-path>
+    <root id="root">
+      <element id="gwt-compiler-output" facet="WebTicTacToe/gwt/GWT" />
+      <element id="module-output" name="WebTicTacToe" />
+    </root>
+  </artifact>
+</component>
